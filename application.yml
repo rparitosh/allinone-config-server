@@ -3,4 +3,4 @@ eureka:
     register-with-eureka: true
     fetch-registry: true
     service-url:
-      defaultZone: http://192.168.65.0:8761/eureka/
+      defaultZone: http://192.168.65.0:8762/eureka1/
